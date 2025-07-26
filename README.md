@@ -24,7 +24,7 @@ PC (GUI Version)
 - yt-dlp installed and available in PATH:
   https://github.com/yt-dlp/yt-dlp
 - pip install customtkinter spotipy
-- Download and set https://ffmpeg.org/ To PATH
+- Download and set https://ffmpeg.org/  To PATH
 
 
 Termux (CLI Version)
