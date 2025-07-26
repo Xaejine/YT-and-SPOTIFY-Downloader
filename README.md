@@ -23,6 +23,8 @@ PC (GUI Version)
   pip install customtkinter spotipy
 - yt-dlp installed and available in PATH:
   https://github.com/yt-dlp/yt-dlp
+  pip install customtkinter spotipy
+
 
 Termux (CLI Version)
 - Python 3.7+
