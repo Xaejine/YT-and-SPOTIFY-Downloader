@@ -2,8 +2,6 @@
 
 A dual-interface application for downloading music/videos from YouTube and converting Spotify playlists to audio files. Includes both a modern GUI (PC) and a terminal-based interface (Termux).
 
-GUI (PC) Screenshot: https://i.imgur.com/example-gui.png  
-CLI (Termux) Screenshot: https://i.imgur.com/example-cli.png
 
 ---
 
