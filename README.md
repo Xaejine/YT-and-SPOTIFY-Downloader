@@ -38,8 +38,8 @@ Termux (CLI Version)
 
 INSTALLATION
 
-git clone https://github.com/Xaejine/YT-and-SPOTIFY-Downloader.git
-cd spotify-youtube-downloader
+- git clone https://github.com/Xaejine/YT-and-SPOTIFY-Downloader.git
+- cd spotify-youtube-downloader
 
 PC Version:
 python GuiForPc.py
